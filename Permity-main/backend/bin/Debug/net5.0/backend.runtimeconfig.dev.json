@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\daqua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\daqua\\.nuget\\packages",
+      "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
